@@ -1,0 +1,12 @@
+create database share_ride;
+drop database share_ride;
+use share_ride;
+show tables;
+select * from booking;
+select * from booking_confirmation;
+select * from owner;
+select * from owner_confirmation;
+select * from owner_message;
+select * from user;
+select * from user_message;
+select * from vehicle;
